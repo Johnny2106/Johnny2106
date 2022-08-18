@@ -15,8 +15,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/  JAVA  / ASP.NET / C#
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Johnny2106)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny2106)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Johnny2106)  
 
 ![Profile views](https://gpvc.arturio.dev/Johnny2106)  
