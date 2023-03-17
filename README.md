@@ -4,6 +4,8 @@
 
 I am a Computer Science Student at the UNIVERSITY TECHNOLOGY Mauritius, currently in my year 3 of my studies. I like music, hiking and swimming. I practice archery in my free time as well as guitar and piano.
 
+Vist my personal portfolio here:- https://johnny2106.github.io
+
 Skills: VUE JS / REACT / JS / HTML / CSS/  JAVA  / ASP.NET / C#
 
 - 🔭 I’m currently working on this page. 
